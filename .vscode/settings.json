@@ -1,0 +1,5 @@
+{
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true,
+    "cmake.sourceDirectory": "${workspaceFolder}/linux"
+}
